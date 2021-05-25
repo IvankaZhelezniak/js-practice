@@ -1,0 +1,28 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvankaZhelezniak/js-practice.git"
+  },
+  "keywords": [],
+  "author": "Ivanka Zhelezniak <ivankaz685@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvankaZhelezniak/js-practice/issues"
+  },
+  "homepage": "https://github.com/IvankaZhelezniak/js-practice#readme",
+  "dependencies": {
+    "joi": "^17.4.0",
+    "nanoid": "^3.1.22"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
