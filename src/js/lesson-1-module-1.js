@@ -2,9 +2,9 @@
 // Строгий режым (писать в первую строку каждого js файла)
 // Если подключен атрибут type ="module" в тег script в html то записывать "use strict" не нужно
 
-let hobby = "Рыбалка";
-10
-console.log(hobby);
+// let hobby = "Рыбалка";
+// 10
+// console.log(hobby);
 
 
 
