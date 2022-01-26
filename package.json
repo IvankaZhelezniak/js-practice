@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /js-practice/"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/IvankaZhelezniak/js-practice/issues"
   },
-  "homepage": "https://github.com/IvankaZhelezniak/js-practice#readme",
+  "homepage": "https://IvankaZhelezniak.github.io/js-practice",
   "dependencies": {
     "joi": "^17.4.0",
     "nanoid": "^3.1.22"
